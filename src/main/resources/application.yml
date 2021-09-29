@@ -1,0 +1,9 @@
+server:
+  port: 9001
+
+kafka:
+  bootstrapAddress: localhost:9092
+
+message:
+  topic:
+    name: hello
